@@ -1,8 +1,8 @@
 #  **Oi! Meu nome e Otávio**  
 
-* Estudante de Análise e Desenvolvimento de Sistemas na faculdade Uniasselvi
-* Faço curso de Rede de Computadores
-* Amo programar e aprender novas tecnologias. 
+* **Estudante de Análise e Desenvolvimento de Sistemas | Uniasselvi**
+* **Faço curso de Rede de Computadores**
+* **Amo programar e aprender novas tecnologias.** 
 
 
 <div>
