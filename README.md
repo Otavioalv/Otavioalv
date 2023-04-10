@@ -30,9 +30,10 @@
 </div>
 
 
+<!--
 ###
 
 ![Snake animation](https://github.com/Otavioalv/Otavioalv/blob/output/github-contribution-grid-snake.svg)
 
-###
+### -->
 
