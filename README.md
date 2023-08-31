@@ -13,8 +13,7 @@
 
  ###
 
-<a href="https://github.com/Otavioalv">
-<img align='right' height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavioalv&layout=compact&langs_count=7&theme=dracula"/>
+
 
  ###
 
