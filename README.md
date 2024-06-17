@@ -1,6 +1,6 @@
 #  **Oi! Meu nome e Otávio**  
 
-* **Estudante de Análise e Desenvolvimento de Sistemas | Uniasselvi**
+* **Estudante de Análise e Desenvolvimento de Sistemas**
 * **Amo programar e aprender novas tecnologias.** 
 
 
