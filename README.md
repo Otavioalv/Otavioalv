@@ -3,8 +3,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?&color=631E88&center=true&vCenter=true&size=40&width=1000&lines=Ol%C3%A1%2C+eu+sou+Ot%C3%A1vio+%F0%9F%91%8B%F0%9F%8F%BB;Dev+Front-End+%F0%9F%8E%A8;Dev+Back-End+%F0%9F%92%BB)
     
 <div align="center"> 
-  <img width="49%" height="230px" src="https://github-readme-stats.vercel.app/api?username=Otavioalv&show_icons=true&include_all_commits=false&hide_border=true&title_color=631E88&icon_color=631E88&text_color=c9d1d9&bg_color=0d1117" alt="Otavio github stats" /> 
-  <img  width="40%" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioalv&layout=compact&hide_border=true&title_color=631E88&text_color=FFF&bg_color=0d1117" alt="MostUsedLanguages"/>
+  <img width="49%" height="145px" src="https://github-readme-stats.vercel.app/api?username=Otavioalv&show_icons=true&include_all_commits=false&hide_border=true&title_color=631E88&icon_color=631E88&text_color=c9d1d9&bg_color=0d1117" alt="Otavio github stats" /> 
+  <img  width="41%" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioalv&layout=compact&hide_border=true&title_color=631E88&text_color=FFF&bg_color=0d1117" alt="MostUsedLanguages"/>
 
 </div>
 
