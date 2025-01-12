@@ -4,7 +4,7 @@
     
 <div align="center"> 
   <img width="400px" height="400px" src="https://github-readme-stats.vercel.app/api?username=Otavioalv&show_icons=true&include_all_commits=false&hide_border=true&title_color=631E88&icon_color=631E88&text_color=c9d1d9&bg_color=0d1117" alt="Otavio github stats" /> 
-  <img  width="400px" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioalv&layout=compact&hide_border=true&title_color=631E88&text_color=FFF&bg_color=0d1117" alt="MostUsedLanguages"/>
+  <img width="400px" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioalv&layout=compact&exclude_repo=cursoLLM,Restaurante,botIg,projetonodejs,Cadastro_Ussuario,Pasta_de_Projetos_de_Pratica,Ideias-Site&hide_border=true&title_color=631E88&text_color=FFF&bg_color=0d1117" alt="MostUsedLanguages"/>
 </div>
 
 ### Estou aprendendo: 
