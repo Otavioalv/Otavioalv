@@ -11,7 +11,7 @@
 ### Linguagens e Ferramentas: 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,nodejs,python,react,nextjs,express,jest,vite,prisma,flask,postgres,mysql,mongodb,docker,supabase,git,github,arch,linux,html,css,bootstrap,tailwindcss,vscode,notion&perline=15" alt="My Skills" />
+        <img src="https://skillicons.dev/icons?i=ts,nodejs,python,react,nextjs,express,jest,vitest,vite,prisma,flask,postgres,mysql,mongodb,docker,supabase,git,github,arch,linux,html,css,bootstrap,tailwindcss,vscode,notion&perline=15" alt="My Skills" />
     </a>
 </div>
 <br/><br/><br/><br/>
